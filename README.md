@@ -1,6 +1,8 @@
 # Wraith_Toolbox
 幻灵工具箱
 
+更新库地址:https://github.com/fallingmeteorite/Image_process_pro
+
 下载链接：https://pan.baidu.com/s/1nlW6OgKmSBnOsmvZcCSgtg 
 提取码：s2jw 
 
