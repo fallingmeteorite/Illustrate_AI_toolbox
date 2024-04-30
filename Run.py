@@ -19,7 +19,7 @@ parser.add_argument('--parameter04',  type=str, default=True)
 parser.add_argument('--parameter05',  type=str, default=True)
 parser.add_argument('--parameter06',  type=str, default=True)
 parser.add_argument('--parameter07',  type=str, default=True)
-parser.add_argument('--parameter08',  type=str, default=True)
+parser.add_argument('--parameter08',  type=int, default=1)
 args = parser.parse_args()
 parameter01 = args.parameter01
 parameter02 = args.parameter02
