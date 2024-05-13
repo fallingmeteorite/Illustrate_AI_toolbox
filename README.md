@@ -3,8 +3,11 @@
 
 更新库地址:https://github.com/fallingmeteorite/Image_process_pro
 
-下载链接：https://pan.baidu.com/s/1nlW6OgKmSBnOsmvZcCSgtg 
-提取码：s2jw 
+123网盘https://www.123pan.com/s/5Hstjv-nZROA.html（不限速）
+
+百度链接https://pan.baidu.com/s/1B1kXtfMMgaokWMFt3QD6gQ?pwd=kj4q （会限速）
+
+启动错误修复：下载该链接文件解压并覆盖：https://github.com/fallingmeteorite/Image_process_pro/releases/download/update/Image_process_pro.zip
 
 预览图片
 ![)%(~D8@7L8$`ZS _5GH`}IR](https://github.com/fallingmeteorite/Wraith_Toolbox/assets/86793086/9152eb20-6178-4e2c-8462-46cdf20a3be3)
