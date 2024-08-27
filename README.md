@@ -1,7 +1,7 @@
-# Wraith_Toolbox
+# Illustrate_AI_toolbox
 幻灵工具箱
 
-更新库地址:https://github.com/fallingmeteorite/Image_process_pro
+更新库地址:https://github.com/fallingmeteorite/Illustrate_AI_toolbox
 
 123网盘https://www.123pan.com/s/5Hstjv-nZROA.html（不限速）
 
