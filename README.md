@@ -1,5 +1,5 @@
 # Illustrate_AI_toolbox
-幻灵工具箱
+依绘工具箱
 
 更新库地址:https://github.com/fallingmeteorite/Illustrate_AI_toolbox
 
