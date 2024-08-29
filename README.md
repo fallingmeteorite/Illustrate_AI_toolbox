@@ -3,16 +3,19 @@
 
 更新库地址:https://github.com/fallingmeteorite/Illustrate_AI_toolbox
 
-123网盘https://www.123pan.com/s/5Hstjv-nZROA.html（不限速）
-
-百度链接https://pan.baidu.com/s/1B1kXtfMMgaokWMFt3QD6gQ?pwd=kj4q （会限速）
-
-启动错误修复：下载该链接文件解压并覆盖：https://github.com/fallingmeteorite/Image_process_pro/releases/download/update/Image_process_pro.zip
+下载器
 
 预览图片
-![)%(~D8@7L8$`ZS _5GH`}IR](https://github.com/fallingmeteorite/Wraith_Toolbox/assets/86793086/9152eb20-6178-4e2c-8462-46cdf20a3be3)
+![6dc471fcdafabd8729c3bef19d10554a](https://github.com/user-attachments/assets/f336c9e2-396b-4733-b91b-4e04bf6d7c13)
 
-![3PO13AD0U3FS8U~W7P70L 2](https://github.com/fallingmeteorite/Wraith_Toolbox/assets/86793086/f5ae4656-11f1-4702-b6e7-e384cd017c62)
+![a6bc79423dc5d98c4cfce87e77b5549d](https://github.com/user-attachments/assets/63f7f949-0583-4ad7-9b7c-202dc633d61c)
 
-![ROXDFFWJT1LH~NBC`2 XQ1U](https://github.com/fallingmeteorite/Wraith_Toolbox/assets/86793086/0f40dfd5-a985-4b99-85be-c98c26514bc7)
+![31ffd57ed32511f5e14ef0a339be4c19](https://github.com/user-attachments/assets/a6ea6cdc-3b09-4877-b699-822c44aa28a0)
+
+![7ff745befe956cc3bef05bbac8bf46fc](https://github.com/user-attachments/assets/22b6d765-a9f5-4e35-ac3e-fe5e67b300b6)
+
+![f01057acc7a694ee3a17afd655d61e02](https://github.com/user-attachments/assets/89f2e53c-0c51-4c83-9869-5ffca5642c94)
+
+
+
 
