@@ -3,7 +3,9 @@
 
 更新库地址:https://github.com/fallingmeteorite/Illustrate_AI_toolbox
 
-下载器
+下载器:
+文件名:Software_downloader.exe
+链接:https://pan.baidu.com/s/11q4bTnRxUYZFOPzMr7Hfew?pwd=1mjf
 
 预览图片
 ![6dc471fcdafabd8729c3bef19d10554a](https://github.com/user-attachments/assets/f336c9e2-396b-4733-b91b-4e04bf6d7c13)
