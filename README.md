@@ -1,11 +1,18 @@
 # Illustrate_AI_toolbox
 依绘工具箱
 
+文件名称：Illustrate_AI_toolbox.7z
+文件大小：9.9GB
+MD5：53602994CA064122EDDFD6CF8508BB60
+SHA1：64D13EFC308138F0F885CB25BB69B397DBAB465C
+CRC32：E37789FF
+
 更新库地址:https://github.com/fallingmeteorite/Illustrate_AI_toolbox
 
 下载器:
-文件名:Software_downloader.exe
-链接:https://pan.baidu.com/s/11q4bTnRxUYZFOPzMr7Hfew?pwd=1mjf
+通过百度网盘分享的文件：Software_downloader.exe
+链接：https://pan.baidu.com/s/1vDY9lAsY5klHEQ3O4vzWhQ?pwd=bqyu 
+提取码：bqyu
 
 预览图片
 ![6dc471fcdafabd8729c3bef19d10554a](https://github.com/user-attachments/assets/f336c9e2-396b-4733-b91b-4e04bf6d7c13)
