@@ -1,6 +1,8 @@
 # Illustrate_AI_toolbox
 依绘工具箱
 
+UI由https://github.com/zhiyiYo/PyQt-Fluent-Widgets/提供的编写
+
 文件名称：Illustrate_AI_toolbox.7z
 
 文件大小：9.9GB
